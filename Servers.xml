@@ -420,8 +420,6 @@
     <website_url></website_url>
     <discord_url>https://discord.gg/xaNB8pT8SC</discord_url>
   </ServerItem>
-</ArrayOfServerItem>
-</ArrayOfServerItem> 
  <ServerItem>
     <id>395c0ff6-eb8e-40b4-a1e0-589853ce8c9a</id>
     <name>Ascension</name>
@@ -434,3 +432,4 @@
     <website_url></website_url>
     <discord_url>https://discord.gg/TqmYRds98Q</discord_url>
   </ServerItem> 
+</ArrayOfServerItem> 
